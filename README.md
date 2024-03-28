@@ -1,7 +1,5 @@
 ### Hey there, I'm Ritika Sharma 👋, 
 ![](https://komarev.com/ghpvc/?username=Ritikaa96&color=blue)
-
-- 🔭 I’m currently working at [NEC](https://in.nec.com/) as a Software Engineer
  
 
 ### GitHub Stats
